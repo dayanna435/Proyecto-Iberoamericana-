@@ -1,4 +1,10 @@
-<h1 align="center">Proyecto de Investigación - [Nombre del Proyecto]</h1>
+<h1 align="center">Plataforma Académica Digital para la Educación Universitaria</h1>
+
+<h3>Proyecto de Investigación:</h3>
+
+<p>Es un sistema innovador diseñado para centralizar y mejorar la gestión académica en universidades. Su objetivo es ofrecer una solución digital que facilite la adaptación de los estudiantes, optimice los procesos administrativos y mejore la interacción entre alumnos, docentes y personal universitario.
+
+A diferencia de plataformas tradicionales como Moodle, esta propuesta busca integrar todos los aspectos educativos y administrativos en un solo entorno digital, proporcionando herramientas de orientación académica, recursos de aprendizaje interactivos, seguimiento del progreso estudiantil y comunicación efectiva entre la comunidad universitaria.</p>
 
 <h3>Integrantes:</h3>
   <ol>
@@ -7,14 +13,14 @@
   </ol>
 
 <p align="center">
-  <a href="https://github.com/user/project-name/issues">
-    <img src="https://img.shields.io/github/issues/user/project-name" alt="Issues">
+  <a href="https://github.com/dayanna435/Proyecto-Iberoamericana-/issues">
+    <img src="https://img.shields.io/github/issues/dayanna435/Proyecto-Iberoamericana-" alt="Issues">
   </a>
-  <a href="https://github.com/user/project-name/stargazers">
-    <img src="https://img.shields.io/github/stars/user/project-name" alt="Stars">
+  <a href="https://github.com/dayanna435/Proyecto-Iberoamericana-/stargazers">
+    <img src="https://img.shields.io/github/stars/dayanna435/Proyecto-Iberoamericana-" alt="Stars">
   </a>
-  <a href="https://github.com/user/project-name/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/user/project-name alt="License">
+  <a href="https://github.com/dayanna435/Proyecto-Iberoamericana-/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/dayanna435/Proyecto-Iberoamericana-" alt="License">
   </a>
 </p>
 <!-- Indice -->
@@ -38,7 +44,7 @@
 Entre los principales problemas detectados se encuentran: una interfaz de usuario poco atractiva y no adaptada a las expectativas actuales de estudiantes y docentes, escasa compatibilidad y problemas con dispositivos móviles, y una baja integración con herramientas tecnológicas emergentes, tales como sistemas de videoconferencia, aplicaciones de colaboración en tiempo real o analíticas de aprendizaje. Además, muchas de las metodologías pedagógicas modernas, como el aprendizaje activo, personalizado o basado en competencias, no están siendo plenamente aprovechadas debido a las limitaciones en el diseño y uso actual de la plataforma.</p>
 
 <p align="center">
-  <img src="./docs/aulavirtual.PNG" alt="Image 1" width="50%">
+  <img src="./docs/ux-ui/aulavirtual.PNG" alt="Image 1" width="50%">
 </p>
 
 <p>A nivel técnico, la personalización y el mantenimiento del sistema Moodle se han vuelto complejos, dificultando su evolución y adaptación a nuevas demandas institucionales. Estas deficiencias han derivado en una experiencia digital fragmentada, una baja motivación por parte de los usuarios, y el uso de plataformas externas no oficiales para complementar procesos académicos y administrativos.
@@ -142,14 +148,15 @@ En este contexto, es urgente repensar y modernizar el campus virtual de la unive
       <li><strong>Frontend:</strong> React, TypeScript/JavaScript.</li>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,css,react,nodejs&theme=dark&perline=4" />
+          <img src="https://skillicons.dev/icons?i=ts,css,react,nodejs&theme=dark&perline=4" />
         </a>
       </p>
     </ul>
   <li><strong>Diagramas UML:</strong> draw.io</li>
+
   <p align="center">
-  <img src="./docs/diagrams/use-case-diagram" alt="Diagrama de Casos de Uso" width="40%">
-  <img src="" alt="Diagrama de Clases" width="40%">
+    <img src="./docs/diagrams/use-case-diagram" alt="Diagrama de Casos de Uso" width="40%">
+    <img src="" alt="Diagrama de Clases" width="40%">
   </p>
 
   <p align="center">
@@ -213,10 +220,11 @@ En este contexto, es urgente repensar y modernizar el campus virtual de la unive
     │   └── vite.config.js
     │
     ├── docs/
+    │   ├── api/
     │   ├── architecture/
     │   ├── diagrams/
     │   ├── user-stories/
-    │   ├── api/
+    │   ├── ux-ui/
     │   └── changelog.md  
     └── .gitignore
     └── README.md
@@ -280,6 +288,11 @@ En este contexto, es urgente repensar y modernizar el campus virtual de la unive
   ```
 </ol>
 
-<p>Este es un documento de prueba...</p>
+  <li><strong>UX/UI:</strong> Figma</li>
+  <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=4" />
+        </a>
+      </p>
 
 ---
