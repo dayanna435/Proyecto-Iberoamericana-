@@ -186,7 +186,7 @@ En este contexto, es urgente repensar y modernizar el campus virtual de la unive
     │   ├── src/
     │   │   ├── main/
     │   │   │   ├── java/
-    │   │   │   │   └── com/ibero/campus/
+    │   │   │   │   └── edu/ibero/lms/
     │   │   │   │       ├── config/
     │   │   │   │       ├── controller/
     │   │   │   │       ├── model
